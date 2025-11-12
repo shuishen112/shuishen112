@@ -2,7 +2,7 @@
 - 👀 I’m interested in modular language modeling, information retrieval, and web tracking 
 - 🌱 I’m currently learning large language modeling, especially for parameter-efficient finetuning. 
 - 💞️ I’m looking to collaborate on large language modeling. 
-- 📫 zhan.su@di.ku.dk, shushen112@gmail.com
+- 📫 zhan.su@di.ku.dk, shushen112@gmail.com, zhan.su@umontreal.ca, zhan.su@mila.quebec
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuishen112)](https://github.com/anuraghazra/github-readme-stats)
 
